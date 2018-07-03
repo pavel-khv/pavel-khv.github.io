@@ -112,7 +112,7 @@
               justify-content: center;
       position: absolute;
       width: 60%;
-      height: 500px;
+      height: 100vh;
       background: rgba(67, 67, 67, 0.85);
       left: -70%;
       top: 0;
