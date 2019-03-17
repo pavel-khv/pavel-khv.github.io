@@ -73,7 +73,7 @@ header {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: url("../img/main-photo.jpg") no-repeat center;
+  background: url("../img/main-photo.jpg") no-repeat 100% 100%;
   width: 90%;
   height: 550px;
   padding: 0 5%; }
